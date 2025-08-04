@@ -1,2 +1,3 @@
 # demo-rishu
-my first git repository
+My first repository on github
+author-Rishabh
